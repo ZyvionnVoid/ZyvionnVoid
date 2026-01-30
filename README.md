@@ -17,5 +17,5 @@ Welcome to my profile
 
 ## Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ZyvionnVoid-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Zyvionn)
-[![Channel](https://img.shields.io/badge/Channel-@YourChannelName-0088cc?style=for-the-badge&logo=telegram)](https://t.me/ZyvionnVoid)
+[![Telegram](https://img.shields.io/badge/Telegram-ZyvionnVoid-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Zyvionn)
+[![Channel](https://img.shields.io/badge/Channel-ZyvionnVoid-0088cc?style=for-the-badge&logo=telegram)](https://t.me/ZyvionnVoid)
