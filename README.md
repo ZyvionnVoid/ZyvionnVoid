@@ -1,6 +1,6 @@
 # RIFT-SaiF
 
-![ZyvionnVoid](https://img.shields.io/badge/Developer-Builder-58A6FF?style=for-the-badge)
+![RIFT-SaiF](https://img.shields.io/badge/Developer-Builder-58A6FF?style=for-the-badge)
 
 ---
 
